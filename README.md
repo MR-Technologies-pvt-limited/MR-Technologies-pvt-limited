@@ -38,6 +38,14 @@ We focus on:
 
 ---
 
+
+## 🚀 Mission
+
+At MR Technologies, our mission is to **empower businesses with innovative digital solutions** that are efficient, scalable, and future-ready.  
+We believe in long-term partnerships built on trust, quality, and cutting-edge technology.
+
+---
+
 ## Profile Views
 
 <p align="left">
@@ -49,10 +57,3 @@ We focus on:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" />
 </picture>
-
-## 🚀 Mission
-
-At MR Technologies, our mission is to **empower businesses with innovative digital solutions** that are efficient, scalable, and future-ready.  
-We believe in long-term partnerships built on trust, quality, and cutting-edge technology.
-
----
